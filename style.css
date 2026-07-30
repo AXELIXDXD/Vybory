@@ -1,0 +1,30 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #f2f2f2;
+    text-align: center;
+    margin: 0;
+    padding: 20px;
+}
+
+.party {
+    background: white;
+    max-width: 350px;
+    margin: 20px auto;
+    padding: 20px;
+    border-radius: 12px;
+    box-shadow: 0 0 10px rgba(0,0,0,.2);
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 18px;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    background: #2196F3;
+    color: white;
+}
+
+button:hover {
+    background: #1976D2;
+}
